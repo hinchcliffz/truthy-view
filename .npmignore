@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+src
+coverage
+.github
+.husky
+.vscode
+tests

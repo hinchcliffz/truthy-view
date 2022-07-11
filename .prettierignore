@@ -1,0 +1,17 @@
+.github
+.vscode
+.husky
+coverage
+node_modules
+.babelrc
+.coveralls.yml
+.eslintrc.yml
+.prettierrc
+config/*
+package.json
+README.md
+package-lock.json
+yarn.lock
+dist
+src/config/*
+jest.config.json

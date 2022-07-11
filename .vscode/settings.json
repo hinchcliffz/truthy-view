@@ -1,0 +1,17 @@
+{
+  "editor.insertSpaces": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+	"eslint.workingDirectories": [
+		"./"
+	],
+	"nuxt.isNuxtApp": false,
+	"cSpell.words": [
+		"macaddress"
+	]
+}

@@ -1,0 +1,16 @@
+env:
+  browser: true
+  commonjs: true
+  es2021: true
+  'jest/globals': true
+extends: eslint:recommended
+parserOptions:
+  ecmaVersion: latest
+rules: {}
+plugins: ['jest']
+parser: "@babel/eslint-parser"
+globals:
+  jestPuppeteer: true
+  page: true
+  browser: true
+  context: true
